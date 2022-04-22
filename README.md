@@ -3,6 +3,6 @@
 ## 1. Vehicle Insurance Classification [link ](https://www.kaggle.com/c/vehicle-insurance-classification-tah)
 ## 2. Blood Disease Classification [link ](https://www.kaggle.com/competitions/blood-disease-classification-tah)
 ## 3. House Price Prediction [link ](https://www.kaggle.com/competitions/house-price-prediction-tah/data?select=sample_submission.csv)
-
+## 6. Anime Recommendation System by TAH [link ](https://www.kaggle.com/competitions/anime-recommendation-system-by-tah/data?select=train.csv)
 
 
